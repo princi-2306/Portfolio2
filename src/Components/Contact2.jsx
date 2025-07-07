@@ -98,7 +98,7 @@ function Contact2() {
           <div>
             <div className="w-full gap-8 absolute flex justify-center bottom-20">
               <div className="linkedin mx-4 hover:scale-110">
-                <a target='_blank' href="">
+                <a target='_blank' href="https://www.linkedin.com/in/priyanshi-maurya-87141a2a4/">
                 <button>
                   <svg className="text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="40" height="40" color="#000000" fill="none">
                     <path d="M7 10V17" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
